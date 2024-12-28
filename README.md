@@ -1,5 +1,5 @@
 <h1> Madhav Ecommerce Sales Analysis </h1>
-<h2> Project Learnings <h2>
+<h2> Project Learnings </h2>
 
 - Created interactive dashboard to track and analyze online sales data 
 Used complex parameters to drill down in worksheet and customization using filtrers and slicers.
